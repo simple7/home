@@ -1,0 +1,24 @@
+.pixeden  {
+    height: 68px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    display: block;
+
+}
+.pd-icon-person {
+    background: url(../images/mana/ico-01.png) no-repeat;
+    width: 68px;
+    background-size: cover;
+}
+.pd-icon-thing {
+  background: url(../images/mana/ico-02.png) no-repeat;
+  width: 68px;
+  background-size: cover;
+}
+.pd-icon-chain {
+  background: url(../images/mana/ico-03.png) no-repeat;
+  width: 68px;
+  background-size: cover;
+}
+
